@@ -34,8 +34,7 @@ This project builds analytical controls combining:
 
 ## Tools & Technologies
 - Python (pandas, numpy, scikit-learn)
-- XGBoost / Random Forest
-- SHAP (explainability)
 
 ## Disclaimer
 This project uses a public dataset and is intended solely for educational and demonstration purposes.
+
